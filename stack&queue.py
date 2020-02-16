@@ -1,0 +1,1 @@
+def cube(x):    return x*x*xx=0l=[filter(cube(x),range(2,10))]print(l)
